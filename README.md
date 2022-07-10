@@ -19,6 +19,6 @@
 * * 来源占比要尽可能准确
 
 文件说明：
-* Report里是我每周的工作
+* Report里是我每周的工作总结
 * CNN是神经网络的分类代码
 * fisherscore的jupiternote文件是filter方法的特征抽取
